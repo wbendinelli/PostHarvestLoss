@@ -1,8 +1,6 @@
 
 # Post-Harvest Loss Analysis
 
-![Project Overview](https://via.placeholder.com/800x300?text=Post-Harvest+Loss+Analysis)
-
 ## Project Overview
 
 This project investigates the primary factors contributing to post-harvest grain losses. By analyzing various datasets and employing econometric models, we aim to identify key determinants and propose strategies to mitigate these losses.
@@ -14,8 +12,6 @@ This project investigates the primary factors contributing to post-harvest grain
 - Compare findings with existing literature to highlight novel insights.
 
 ## Novel Contributions
-
-![Data Analysis](https://via.placeholder.com/800x300?text=Data+Analysis)
 
 While previous studies have explored post-harvest losses, this project differentiates itself by:
 
@@ -44,7 +40,6 @@ PostHarvestLoss/
 
 ## Installation and Setup
 
-![Installation](https://via.placeholder.com/800x300?text=Installation+Steps)
 
 ### Clone the repository
 ```bash
@@ -87,7 +82,6 @@ The datasets used in this project are sourced from the Food and Agriculture Orga
 
 ## Results
 
-![Results](https://via.placeholder.com/800x300?text=Results)
 
 Our analysis revealed that factors such as infrastructure, economic development, and trade openness significantly influence post-harvest grain losses. These findings suggest that interventions targeting these areas could effectively reduce losses. Detailed results and visualizations are available in the `reports/` directory.
 
